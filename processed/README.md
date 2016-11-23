@@ -1,5 +1,1 @@
-# altafsir_com
-
-This repository holds a corpus of [Quran](https://en.wikipedia.org/wiki/Quran) exegetical works (called [sg. tafseer, pl. tafaseer](https://en.wikipedia.org/wiki/Tafsir)) scraped from [altafsir.com](http://www.altafsir.com/tafasir.asp?tmadhno=0&ttafsirno=0&tsorano=1&tayahno=1&tdisplay=no&languageid=1), a website ran by the Kingdom of Jordan. Please not that the data themselves are in the public domain. The corpus holds a total of 68 books, each of which covers a subset of Quranic verses (called [sg. aaya, pl. aayaat](https://en.wikipedia.org/wiki/Ayah)). At the bottom of the folder structure inside `yaml`, you will find one [YAML](http://yaml.org) file per tafseer per aaya, even in those cases where a tafseer gives no commentary on that specific aaya (in which case the metadata will still be present, but the 'text' field will not).
-
-Apart from the YAML files, there are also CSV files (which still include the relevant metadata) and plain text files for each of the tafseer books.
+../README.md
